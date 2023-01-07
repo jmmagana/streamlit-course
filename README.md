@@ -3,4 +3,4 @@ Learn how to build interactive and data-driven web apps in Python using the Stre
 https://www.youtube.com/watch?v=JwSS70SZdyM
 
 Vitual environment
-$ source ./streamlit-env/Scripts/activate
+$ source ./st-env/Scripts/activate
